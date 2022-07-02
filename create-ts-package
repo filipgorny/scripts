@@ -1,0 +1,3 @@
+git clone git@github.com:filipgorny/typescript-package.git .
+rm .git -Rf
+
